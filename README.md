@@ -11,3 +11,6 @@
 # systemctl restart zabbix-server zabbix-agent apache2
 # systemctl enable zabbix-server zabbix-agent apache2
 # systemctl status zabbix-server.service
+# apt install zabbix-agent
+# systemctl restart zabbix-agent
+# systemctl enable zabbix-agent
